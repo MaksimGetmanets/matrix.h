@@ -30,7 +30,7 @@ CALC_ERROR	2	Ошибка вычислений (переполнение, нул
 SUCCESS	1	Матрицы равны
 FAILURE	0	Матрицы не равны
 
-=================================================================================================
+============================================================================================
 
 Matrix is ​​a C library for working with matrices, implementing the basic operations of linear algebra. The project is analogous to a library for working with matrices.
 
