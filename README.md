@@ -38,7 +38,7 @@ The library supports operations such as addition, subtraction, multiplication of
 
 function Description Return code create_matrix Create matrix 0 - OK, 1 - error remove_matrix Clear memory void eq_matrix Compare matrix 1 -, 0 - not sum_matrix Add matrix 0 - OK, 1 - error, 2 - formula error sub_matrix Subtract matrix 0 - OK, 1 - error, 2 - calculation error mult_number Multiply by number 0 - OK, 1 - error, 2 - calculation error mult_matrix Multiply matrices 0 - OK, 1 - error, 2 - calculation error transpose Transpose 0 - OK, 1 - error calc_complements Complements matrix 0 - OK, 1 - error, 2 - comp error determinant Matrix determinant 0 - OK, 1 - error, 2 - calculation error inverse_matrix Inverse matrix 0 - OK, 1 - error, 2 - calculation error
 
-Assembly evaluation of a single do-all command
+Command to assembly: make all
 
 Return codes
 
